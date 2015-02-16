@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Awesomelogin</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="Login_header"> Login </string>
+    <string name="login_baseline"> You can Try the Application without signin in, But why would u do that boy</string>
+
+    <string name="userhint"> abc@user.com </string>
+    <string name="passhint"> *** </string>
+
+    <string name="but1"> Go </string>
+
+    <string name="frgt"> Forgot Your Password? </string>
+
+    <!--<string name="back"> #3F3F3F </string>-->
+
+    <!--<string name="text_color"> #B4FBBF </string>-->
+    <!--<string name="edticolor"> #FFFFFF </string>-->
+</resources>
